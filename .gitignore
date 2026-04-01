@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
+
+# LaTeX / Beamer build artefacts
+*.aux
+*.log
+*.out
+*.toc
+*.snm
+*.nav
+*.vrb
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Misc
+*.zip
+*.tar.gz
