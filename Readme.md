@@ -25,14 +25,14 @@ The module is divided into two parts:
 | 3 | Losses | Regression & classification losses, canonical link–loss pairs |
 | 4 | Gradient Descent | Batch/SGD/mini-batch, Hessian, convergence, optimisers (Momentum, RMSProp, Adam) |
 | 5 | Backpropagation | Forward/backward pass, computation graph, reverse-mode autodiff |
-| 6 | Training Tricks | Regularisation, overfitting, model selection, training workflow |
+| 6 | Training Tricks | Regularisation, vanishing/exploding gradients, training workflow |
 
 ### Part II — Architectures & Applications
 | # | Lecture | Key Topics |
 |---|---------|------------|
 | 7 | CNNs / Part I | Inductive bias, computer vision, convolution operator |
-| 8 | CNNs / Part II | Multi-channel convolutions, pooling, AlexNet, ResNet, transfer learning, object detection, segmentation |
-| 9 | Transformers / Part I | Natural language, word representations, RNNs, autoregressive models |
+| 8 | CNNs / Part II | Multi-channel convolutions, pooling, AlexNet, ResNet, transfer learning |
+| 9 | Transformers / Part I | object detection, segmentation (from previous lecture), Natural language, word representations, autoregressive models, RNNs |
 | 10 | Transformers / Part II | Attention mechanism, Transformer architecture |
 | 12 | Natural vs Machine Intelligence | *(upcoming)* |
 
