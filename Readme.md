@@ -35,7 +35,7 @@ The module is divided into two parts:
 | 9 | Transformers / Part I | object detection, segmentation (from previous lecture), Natural language, word representations, autoregressive models, RNNs |
 | 10 | Transformers / Part II | Attention mechanism, Transformer architecture |
 | 11 | Group Oral Presentations | Student presentations on landmark deep learning papers |
-| 12 | Natural vs Machine Intelligence | Brief history of AI, New hopes, Neuro-AI, Continual Learning, Energy efficiency, Physical Understanding |
+| 12 | Natural vs Machine Intelligence | Brief history of AI & new hopes; Neuro-AI: continual learning, energy efficiency, physical world grounding
 
 ---
 
