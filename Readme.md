@@ -34,7 +34,8 @@ The module is divided into two parts:
 | 8 | CNNs / Part II | Multi-channel convolutions, pooling, AlexNet, ResNet, transfer learning |
 | 9 | Transformers / Part I | object detection, segmentation (from previous lecture), Natural language, word representations, autoregressive models, RNNs |
 | 10 | Transformers / Part II | Attention mechanism, Transformer architecture |
-| 12 | Natural vs Machine Intelligence | *(upcoming)* |
+| 11 | Group Oral Presentations | Student presentations on landmark deep learning papers |
+| 12 | Natural vs Machine Intelligence | Brief history of AI, Neuro-AI |
 
 ---
 
@@ -62,8 +63,8 @@ The module is divided into two parts:
 ├── L7_CNNs_Part_I.pdf
 ├── L8_CNNs_Part_II.pdf
 ├── L9_Transformers_Part_I.pdf
-├── L10_Transformers_Part_II.pdf   ← upcoming
-└── L12_Natural_vs_Machine.pdf     ← upcoming
+├── L10_Transformers_Part_II.pdf  
+└── L12_Natural_vs_Machine.pdf 
 ```
 
 ---
@@ -71,3 +72,7 @@ The module is divided into two parts:
 ## Licence
 
 Slides are shared for educational purposes. Please cite appropriately if you reuse any material.
+
+## Acknowledgements
+
+These slides owe much to many. Special thanks to N. Schreuder and E. De Angelis for their contributions to the course content. I am also grateful to the library of the [INHA](https://www.inha.fr) (Institute National de l'Histoire des Arts, 2 Rue Vivienne, Paris) for providing a wonderful—no seriously, wonderful—place to work during the many hours spent preparing these materials. Above all, thanks to the students: their curiosity, engagement, and questions were the best motivation of all.
