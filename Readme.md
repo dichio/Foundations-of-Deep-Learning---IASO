@@ -76,4 +76,4 @@ Slides are shared for educational purposes. Please cite appropriately if you reu
 
 ## Acknowledgements
 
-These slides owe much to many. Special thanks to N. Schreuder and E. De Angelis for their contributions to the course content. I am also grateful to the library of the [INHA](https://www.inha.fr) (Institute National de l'Histoire des Arts, 2 Rue Vivienne, Paris) for providing a wonderful—no seriously, wonderful—place to work during the many hours spent preparing these materials. Above all, thanks to the students: their curiosity, engagement, and questions were the best motivation of all.
+These slides owe much to many. Special thanks to N. Schreuder and E. De Angelis for their contributions to the course content. I am also grateful to the library of the [INHA](https://www.inha.fr) (Institute National d'Histoire de l'Art, 2 Rue Vivienne, Paris) for providing a wonderful—no seriously, wonderful—place to work during the many hours spent preparing these materials. Above all, thanks to the students: their curiosity, engagement, and questions were the best motivation of all.
