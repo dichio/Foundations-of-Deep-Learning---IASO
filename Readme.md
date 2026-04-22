@@ -47,6 +47,7 @@ The module is divided into two parts:
 | I. Goodfellow, Y. Bengio & A. Courville, *Deep Learning*, MIT Press (2016) | Ch. 5, 10 |
 | F. Fleuret, *The Little Book of Deep Learning*, (2024) | Ch. 1, 3–5 |
 | T. Hastie, R. Tibshirani & J. Friedman, *The Elements of Statistical Learning*, Springer (2009) | Ch. 2–4 |
+| D. Andler, *Intelligence Artificielle, Intelligence Naturelle: la double énigme*, Gallimard (2023) | Ch. 1–6 |
 
 ---
 
